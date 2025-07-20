@@ -1,3 +1,3 @@
 # Nikmarti.github.io
 
-/file_cartella/file.html
+file_cartella/file.html
